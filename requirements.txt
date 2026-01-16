@@ -1,4 +1,4 @@
-python-telegram-bot==20.x
+python-telegram-bot[all]>=20.0
 firebase-admin>=6.0.0
 requests>=2.31.0
 python-dotenv
